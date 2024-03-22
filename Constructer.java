@@ -34,9 +34,9 @@ public class Constructer {
     System.out.println(s.name);
     System.out.println(s.age);
 
-    Persion p=new Persion(29,101);
+    Persion p=new Persion(101,90);
     System.out.println(p.hashCode());
-    System.out.println(p.age);
     System.out.println(p.rollNo);
+    System.out.println(p.marks);
  }   
 }
