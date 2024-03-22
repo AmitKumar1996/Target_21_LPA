@@ -1,3 +1,5 @@
+
+import java.util.*;
 class P{
     P(){
         System.out.println(this.hashCode());
